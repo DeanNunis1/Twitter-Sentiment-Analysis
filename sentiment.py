@@ -1,9 +1,6 @@
 # sentiment.py
 # Demonstrates connecting to the twitter API and accessing the twitter stream
 # Author: Dean Nunis
-# Email: nunis@chapman.edu
-# Course: CPSC 353
-# Assignment: PA03 Sentiment Analysis
 # Version 1
 # Date: October 19, 2020
 
