@@ -1,4 +1,4 @@
-# twitter
+# Twitter
 Sample twitter program to demonstrate the twitter API.
 
 The program will -
