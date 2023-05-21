@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 To run this script, you will need Python 3 and several Python packages. The required packages are listed in the `requirements.txt` file and can be installed using pip:
 
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Installing
@@ -19,8 +19,8 @@ $ pip install -r requirements.txt
 To install this script, you just need to clone the repository:
 
 ```bash
-$ git clone https://github.com/<your_username>/twitter-sentiment-analysis.git
-$ cd twitter-sentiment-analysis
+git clone https://github.com/<your_username>/twitter-sentiment-analysis.git
+cd twitter-sentiment-analysis
 ```
 
 ### Usage
@@ -30,14 +30,14 @@ You need to create a `sentiment.input` file where each line represents a search 
 For example, to analyze the sentiment related to the Los Angeles Lakers and Clippers, the file will look like this:
 
 ```bash
-$ Lakers
-$ Clippers
+Lakers
+Clippers
 ```
 
 Now you can run the script with the command:
 
 ```bash
- python sentiment.py
+python sentiment.py
 ```
 
 ## Structure
