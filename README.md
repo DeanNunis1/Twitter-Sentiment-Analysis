@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 To run this script, you will need Python 3 and several Python packages. The required packages are listed in the `requirements.txt` file and can be installed using pip:
 
-
+```bash
 $ pip install -r requirements.txt
-
+```
 
 ### Installing
 
