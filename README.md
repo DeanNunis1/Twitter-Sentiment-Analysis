@@ -18,10 +18,10 @@ pip install -r requirements.txt
 
 To install this script, you just need to clone the repository:
 
-\`\`\`bash
+bash
 git clone https://github.com/<your_username>/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
-\`\`\`
+
 
 ### Usage
 
