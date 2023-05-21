@@ -37,7 +37,7 @@ $ Clippers
 Now you can run the script with the command:
 
 ```bash
-$ python sentiment.py
+ python sentiment.py
 ```
 
 ## Structure
