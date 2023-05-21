@@ -2,7 +2,6 @@
 # Demonstrates connecting to the twitter API and accessing the twitter stream
 # Author: Dean Nunis
 # Version 1
-# Date: October 19, 2021
 
 # Demonstrates connecting to the twitter API and accessing the twitter stream
 
