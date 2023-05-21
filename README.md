@@ -21,7 +21,7 @@ To install this script, you just need to clone the repository:
 ```bash
 $ git clone https://github.com/<your_username>/twitter-sentiment-analysis.git
 $ cd twitter-sentiment-analysis
-```bash
+```
 
 ### Usage
 
@@ -32,13 +32,13 @@ For example, to analyze the sentiment related to the Los Angeles Lakers and Clip
 ```bash
 $ Lakers
 $ Clippers
-```bash
+```
 
 Now you can run the script with the command:
 
 ```bash
 $ python sentiment.py
-```bash
+```
 
 ## Structure
 
